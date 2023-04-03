@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # BereniceIbarra
+   # BereniceIbarra (Berenice Ibarra Torres)
 
    # Input:
    # p, principal amount
